@@ -60,7 +60,7 @@ from distutils.core import setup
 
 setup(
     name='rq_test1',
-#    packages=['simplestatistics', 'simplestatistics.statistics'],
+    packages=['rq_test1'],
     version='0.3.0',
     description='Simple statistical functions implemented in readable Python.',
     author='Sherif Soliman',
